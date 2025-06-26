@@ -18,6 +18,23 @@ public class CalculadoraSimple {
         int resta = a - b;
         System.out.println("Resta: " + resta);
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
         //División
         if (b != 0) {
             double div = (double) a / b;
